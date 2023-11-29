@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+text-align: center;
+font-size: 200%;
+font-family:'Times New Roman', Times, serif ;
+color: rgb(194, 192, 184);
+}
+
+h2{
+color: coral;
+font-size: 150%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+color: blanchedalmond;
+font-size:120%;
+font-family: monospace;
+}
+
+img{
+width: 90%;
+align: center;
+}
